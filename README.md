@@ -1,6 +1,6 @@
 # StopWatch
 This is StopWatch Mobile Application. This Application is developed by using Android Studio and XML is used as front-end and JAVA is used as back-end.
-This supporst only Android Mobile Devices.
+This supports only Android Mobile Devices.
 # Screenshots
 ![photo_1_2023-09-16_15-28-38](https://github.com/Naveen-Chandrasekaran/StopWatch/assets/114243437/ee578fb0-9738-4ba9-9228-0394645dde85)
 ![photo_2_2023-09-16_15-28-38](https://github.com/Naveen-Chandrasekaran/StopWatch/assets/114243437/6a0a8c9c-40ff-471a-98fc-05aca097c113)
